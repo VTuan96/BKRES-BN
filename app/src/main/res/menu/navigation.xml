@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuHome"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/mnuHistory"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="@string/title_history" />
+
+    <item
+        android:id="@+id/mnuSetting"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="@string/title_settings" />
+
+</menu>

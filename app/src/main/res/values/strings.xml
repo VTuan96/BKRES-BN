@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BKRES-BN</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+    <string name="temp_title">Nhiệt độ (<sup>o</sup>C)</string>
+    <string name="humi_title">Độ ẩm (%)</string>
+    <string name="bottom_title">&#169; SANSLab ĐH Bách Khoa HN 2018</string>
+    <string name="config_temp">Thiết lập nhiệt độ (<sup>o</sup>C)</string>
+    <string name="config_humi">Thiết lập độ ẩm (%)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
